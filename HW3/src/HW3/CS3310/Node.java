@@ -1,7 +1,7 @@
 package HW3.CS3310;
 
 
-public class Node<E extends Comparable<E>> {
+public class Node<E> {
 
 	E dataValue;
 	Node<E> nextNode;
